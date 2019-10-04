@@ -18,7 +18,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 ### [L10 - Powtórka](L10-repetition)
 ### [Test końcowy](https://forms.gle/FxJ3b4qyFF8B1dNb9)
 ### L11 - Rekrutacja
-
+#
 ## Organizacja
 
 ### Tabela wyników
